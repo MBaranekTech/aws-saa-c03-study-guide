@@ -1,0 +1,22 @@
+# Glossary
+
+- **AZ:** Availability Zone; one or more discrete data centers with independent infrastructure in a Region.
+- **CIDR:** Address-range notation used for VPCs and subnets.
+- **Edge location:** Site used by edge services such as CloudFront.
+- **Elasticity:** Ability to add and remove resources as demand changes.
+- **ENI:** Elastic network interface attached to compute resources.
+- **Envelope encryption:** Data is encrypted with a data key; that key is protected by a key-encryption key.
+- **Fault tolerance:** Ability to continue operation despite component failures.
+- **High availability:** Design that minimizes service interruption.
+- **Idempotency:** Repeating an operation produces no additional unintended effect.
+- **Least privilege:** Grant only necessary permissions.
+- **Loose coupling:** Components interact through stable boundaries and can fail or scale independently.
+- **Multi-AZ:** Architecture spanning Availability Zones in one Region.
+- **Multi-Region:** Architecture using more than one geographic AWS Region.
+- **RPO:** Recovery point objective; maximum acceptable data-loss window.
+- **RTO:** Recovery time objective; maximum acceptable restoration time.
+- **Serverless:** Consumption model where infrastructure provisioning and scaling are largely managed by the provider.
+- **Stateless:** Request processing does not depend on local session state from earlier requests.
+- **Throughput:** Amount of work or data processed per unit time.
+- **VPC:** Logically isolated virtual network in AWS.
+- **Well-Architected:** AWS framework for evaluating architecture qualities and trade-offs.
